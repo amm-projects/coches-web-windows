@@ -1,6 +1,6 @@
 # coches-web-windows
 
-DESCRIPCION:
+# Descripcion
 
 Coches-Web es una pagina web de una compraventa de coches hecha con Laravel, React, Docker y en base de datos MySql.
 
@@ -12,7 +12,7 @@ Coches-Web es una pagina web de una compraventa de coches hecha con Laravel, Rea
 
     · Buena presentacion con efectos y animaciones.
 
-COMO EJECUTARLA:
+# Como ejecutarla
 
   1. Clonar el repositorio en una carpeta o descargarlo en ZIP y extraerlo como carpeta.
     
