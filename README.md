@@ -21,7 +21,9 @@ Coches-Web es una pagina web de una compraventa de coches hecha con Laravel, Rea
   3. Activar servicios de Apache y MySQL.
     
   4. Mover la carpeta dentro de la carpeta de Apache (C:/xampp/www o C:/laragon/www).
+
+  5. En el terminal, ubicarse dentro del directorio del proyecto (coches-app) y escribir "rm -rf public/storage" (para bash) o "rmdir /s /q public\storage" (para cmd) y "php artisan storage:link"
     
-  5. En la terminal ubicarse dentro del directorio del proyecto (coches-app) y escribir "npm run dev".
+  6. En la terminal ubicarse dentro del directorio del proyecto (coches-app) y escribir "php artisan migrate:refresh --seed" y "npm run dev".
     
-  6. En el navegador poner la URL: http://coches-app.test/ o https://coches-app.test/ .
+  7. En el navegador poner la URL: http://coches-app.test/ o https://coches-app.test/ .
