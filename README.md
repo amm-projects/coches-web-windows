@@ -18,7 +18,7 @@ Coches-Web es una pagina web de una compraventa de coches hecha con Laravel, Rea
     
   2. Tener XAMPP o Laragon instalado https://www.apachefriends.org/es/index.html , https://laragon.org/download .
 
-  3. En el archivo de configuracion de Apache httpd.conf poner en la seccion <Directory "C:/laragon/www"> AllowOverride All.
+  3. En el archivo de configuracion de Apache (httpd.conf) buscar la seccion <Directory "C:/laragon/www"> y poner AllowOverride All.
     
   4. Activar servicios de Apache y MySQL.
     
