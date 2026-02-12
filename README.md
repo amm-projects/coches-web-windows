@@ -26,4 +26,4 @@ Coches-Web es una pagina web de una compraventa de coches hecha con Laravel, Rea
     
   6. Tambien escribir "php artisan migrate:refresh --seed" y "npm run dev".
     
-  7. En el navegador poner la URL: http://coches-app.test/ o https://coches-app.test/ .
+  7. En el navegador poner la URL: http://coches-web-windows.test/ o https://coches-web-windows.test/ .
